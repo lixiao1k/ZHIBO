@@ -1,0 +1,6 @@
+framework module Pods_ZHIBOTests {
+  umbrella header "Pods-ZHIBOTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

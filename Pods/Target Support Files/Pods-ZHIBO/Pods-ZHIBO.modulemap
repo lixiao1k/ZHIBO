@@ -1,0 +1,6 @@
+framework module Pods_ZHIBO {
+  umbrella header "Pods-ZHIBO-umbrella.h"
+
+  export *
+  module * { export * }
+}
